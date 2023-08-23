@@ -1,0 +1,25 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: rgb(151,227,236);
+  padding: 0 20px 20px 20px;
+  border: 2px solid black;
+  font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: placeholder: this should be the rest of the output you got from Google fonts;
+  line-height: 2;
+  text-align: center;
+  text-shadow: 3px 3px 1px black;
+}
+
+image
+{
+	display: block;
+	margin: 0 auto;
+}
+
+p,h1,ol{
+	color: red;
+	width: 500px;
+	line-height: 2;
+    text-align: center;
+}
